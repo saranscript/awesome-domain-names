@@ -1,5 +1,5 @@
 # awesome-domain-names
-## A curated list of domain names for all :) Ordered by length. 
+## A curated list of 5K domain names, Ordered by length. 
 
 |Domain name                      |Availability                                                                                                        |Length|
 |---------------------------------|--------------------------------------------------------------------------------------------------------------------|------|
